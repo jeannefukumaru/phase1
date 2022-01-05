@@ -26,7 +26,7 @@ There are 25 variables:
 - EDUCATION: (1=graduate school, 2=university, 3=high school, 4=others, 5=unknown, 6=unknown)
 - MARRIAGE: Marital status (1=married, 2=single, 3=others)
 - AGE: Age in years
-- PAY_0 (Renamed to PAY_1): Repayment status in September, 2005 (-1=pay duly, 1=payment delay for
+- PAY_0 (Renamed to PAY_1): Repayment status in September, 2005 (-2=no consumption, -1=pay duly, 0=use of revolving credit, 1=payment delay for
   one month, 2=payment delay for two months, … 8=payment delay for eight months, 9=payment delay
   for nine months and above)
 - PAY_2: Repayment status in August, 2005 (scale same as above)
